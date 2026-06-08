@@ -29,6 +29,7 @@ Usuario → Sir Paco → Estratega (plan) → Senescal (tareas) → Especialista
 | **el-heraldo** | APIs: endpoints REST/GraphQL, contratos, autenticación, middleware, integraciones externas. | Opus 4.8 | Read, Write, Edit, Bash, Grep, Glob |
 | **el-castellano** | Infra/DevOps: Docker, CI/CD, despliegue, variables de entorno, servidores. | Opus 4.8 | Read, Write, Edit, Bash, Grep, Glob |
 | **el-cronista** | Investigación: busca documentación, compara librerías, evalúa mejores prácticas. | Opus 4.8 | Read, Grep, Glob, WebSearch, WebFetch |
+| **el-fisico** | Diagnóstico de código: bugs, vulnerabilidades, code smells y errores de tipos. Entrega un Informe Médico con severidad y tratamiento exacto para cada mal. | Opus 4.8 | Read, Grep, Glob, Bash |
 
 ---
 
@@ -166,7 +167,8 @@ pacoAgents/
         ├── el-arquitecto-de-bovedas.md
         ├── el-heraldo.md
         ├── el-castellano.md
-        └── el-cronista.md
+        ├── el-cronista.md
+        └── el-fisico.md
 ```
 
 ---
