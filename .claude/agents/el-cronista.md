@@ -1,4 +1,5 @@
 ---
+user-invocable: false
 name: el-cronista
 description: Investigación técnica y documentación. Usar proactivamente cuando se necesita buscar documentación oficial, comparar librerías, explorar mejores prácticas o evaluar opciones tecnológicas antes de implementar. El Cronista consulta los archivos antiguos y las tierras lejanas.
 tools: Read, Grep, Glob, WebSearch, WebFetch
